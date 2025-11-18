@@ -1,6 +1,6 @@
 # cessda.fair.metadata-uses-cessda-access-rights
 
-[![SQAaaS badge shields.io](https://img.shields.io/badge/sqaaas%20software-bronze-e6ae77)](https://api.eu.badgr.io/public/assertions/V6TwyMc7TpWOzD5pMVZZXw "SQAaaS bronze badge achieved")
+[![SQAaaS badge](https://github.com/EOSC-synergy/SQAaaS/raw/master/badges/badges_150x116/badge_software_silver.png)](https://api.eu.badgr.io/public/assertions/jJHi783iTmC9rdECs3RoVA "SQAaaS silver badge achieved")
 
 This repository contains the source code for the CESSDA community-specific FAIR test MetadataUsesCessdaAccessRights.
 
